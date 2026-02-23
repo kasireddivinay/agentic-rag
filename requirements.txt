@@ -1,0 +1,10 @@
+streamlit
+groq
+sentence-transformers
+torch
+chromadb
+rank-bm25
+pypdf
+python-dotenv
+scikit-learn
+numpy
